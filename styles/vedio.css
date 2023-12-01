@@ -1,0 +1,70 @@
+
+.img{
+width: 300px;
+}
+.all{
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+}
+.text{
+  margin-top: 0px;
+  font-size: 14px;
+  font-weight: medium;
+  line-height: 20px;
+  margin-bottom: 12px;
+}
+.found  {
+  display: inline-block;
+  margin-right: 15px;
+  vertical-align: top ;
+}
+.texts{
+  display: inline-block;
+  width: 245px;
+  font-family: Arial;
+  font-weight:bolder;
+  font-size: 14px;
+    
+
+}
+.size{
+  width: 40px;
+  border-radius: 100px;
+  position: relative;
+  top: 3px;    
+}
+
+.Brownlee,
+.month{
+  font-size: 12px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+line-height: 0;
+margin-top: 20px;
+}
+.month{
+  margin-bottom: 30px;
+}
+.vedio-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 15px;
+  row-gap: 40px;
+}
+.vedio-time{
+  background-color: black;
+  color: white;
+  position: relative;
+  bottom: 100px;
+  left: 250px;
+  width: 40px;
+  font-family: Arial;
+  font-weight: 100;
+  padding-left: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 4px;
+  font-size: 12px;
+  border-radius: 2px;
+}
